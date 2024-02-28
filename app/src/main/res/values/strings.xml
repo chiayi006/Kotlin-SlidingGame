@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sliding Game</string>
+    <string name="button_notification">Please hit one of the round buttons!!</string>
+    <string name="one_player_game_description">One player game!! Play with AI!</string>
+    <string name="two_player_game_description">Two player game!! Play with your friends!</string>
+    <string name="question_button_description">About the game!!</string>
+    <string name="setting_button_description">Change the setting of the game!!</string>
+    <string name="about_game">About this game</string>
+    <string name="about_description">This is a game about gravity gobang. The rule is the same as Gobang, but we also have gravity feature!!!!</string>
+    <string name="okay_button">Understand</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="music_question">Do you want musics?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="player_one_win_counts">Crab player win counts: </string>
+    <string name="player_two_win_counts">Fish player win counts: </string>
+    <string name="gameOverTitle">Game Over!!</string>
+    <string name="tie_game">TIE GAME! Do you want play again?</string>
+    <string name="player_one_wins">Crab player wins!! Do you want play again?</string>
+    <string name="player_two_wins">Fish player wins!! Do you want play again?</string>
+
+</resources>

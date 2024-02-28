@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">重力五子棋</string>
+    <string name="button_notification">請按下按鈕!!</string>
+    <string name="one_player_game_description">單人遊戲!! 與電腦玩家對決</string>
+    <string name="two_player_game_description">雙人遊戲!! 與朋友對戰</string>
+    <string name="question_button_description">關於遊戲</string>
+    <string name="setting_button_description">變更遊戲設定</string>
+    <string name="about_game">關於遊戲</string>
+    <string name="about_description">這是一款關於重力五子棋的遊戲。規則與五子棋相同，但增加了重力元素！</string>
+    <string name="okay_button">了解</string>
+    <string name="title_activity_settings">設定</string>
+    <string name="music_question">開啟音樂?</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="player_one_win_counts">螃蟹 玩家獲勝次數: </string>
+    <string name="player_two_win_counts">熱帶魚 玩家獲勝次數: </string>
+    <string name="gameOverTitle">結束遊戲!!</string>
+    <string name="tie_game">雙方平手! 想要再玩一次嗎?</string>
+    <string name="player_one_wins">螃蟹玩家獲勝!! 想要再玩一次嗎?</string>
+    <string name="player_two_wins">熱帶魚玩家獲勝!! 想要再玩一次嗎?</string>
+</resources>
